@@ -1,10 +1,10 @@
 # Branden Holloway
 
 ## Contact Information
-   Email: bdholloway21@gmail.com
-   Phone: 541-212-4953
-   [Github](https://github.com/bdholloway)
-   [LinkedIn](https://www.linkedin.com/in/branden-holloway-28a979119/)
+   - Email: bdholloway21@gmail.com
+   - Phone: 541-212-4953
+   - [Github](https://github.com/bdholloway)
+   - [LinkedIn](https://www.linkedin.com/in/branden-holloway-28a979119/)
 
 
 ## About
