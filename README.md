@@ -2,6 +2,10 @@
 
 
 ## About
+   I am a senior at Oregon State University, finishing up my bachelor's degree in Computer Science. Out of high school
+   I joined the United States Navy where I was stationed on the USS Pearl Harbor in San Diego, CA. This is where my love 
+   for computers came to light, working side by side with Information Technicians (IT's). This part of my life is where I would
+   learn some of my most important lessons in becoming part of a team and working toward a common goal.
 
 ## Project List
 
