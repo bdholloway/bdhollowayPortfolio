@@ -16,7 +16,7 @@
 ## Project List
    [Project 1: MPulse Mobile Geo-Fencing](https://github.com/bdholloway/CS461/tree/master/Test/testflutter)
    
-   Partnering with MPulse Mobile Software, my senior capstone project team and I researched and implemented a standalone application that utilizes Google Flutter and Firebase to    build out an application that mimics the current MPulse mobile application. Our application however, changed from using MSSQL to Google Firebase as well as adds additional      geo-fencing features that MPulse hopes to use as a building block to integrate the feature into their own existing application.
+   Partnering with MPulse Mobile Software, my senior capstone project team and I researched and implemented a standalone application that utilizes the Google Flutter SDK and Google Firebase storage to build out an application that mimics the current MPulse mobile application. This application is geared toward the maintenance community and is used by maintenance workers to keep track of their assigned work orders. Our application takes the pre-existing application and adds geo-fencing functionality to make users aware of nearby work orders that have not yet been assigned but that can be accomplished by the current user if applicable. This is done through a notification system that we built that will notify the worker at the opportune time. The users can then add these unassigned work orders to their schedule and complete them while on the job site. This can lead to countless man hours saved, which in turn translates to money saved. This can also be used to aid in smarter scheduling of work orders in the future through potential data processing. 
 
    [Project 2: Two-Factor Authentication  Application](https://github.com/bdholloway/CS370) 
    
